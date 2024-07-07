@@ -23,6 +23,9 @@ for the actual thing, we ||always store vertical lines, always in order of x val
 look through other lines to find the first one to the right of it with overlap, pop that as well. 
 increase total by the size of the rectangle they enclose. add the sections of those lines that are not part of the overlap, 
 repeat until nothing left ||
+
+
+uncomment things to make part 1 work or something
 """
 
 
